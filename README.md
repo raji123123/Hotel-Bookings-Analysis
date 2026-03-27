@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
-<img src="Screenshots/Hotel bookings1.PNG" width="78%" />
-<img src="Screenshots/Hotel bookings2.PNG" width="78%" />
+<img src="Screenshots/Hotel bookings1.PNG" width="98%" />
+<img src="Screenshots/Hotel bookings2.PNG" width="98%" />
 
 🏨 Hotel Booking – Revenue & Cancellation Risk Analysis (SQL Project)
 
